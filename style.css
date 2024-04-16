@@ -1,0 +1,28 @@
+
+.search {
+
+--padding: 14px;
+width: max-content;
+display: flex;
+align-items: right;
+padding: var(--padding);
+border-radius: 35px;
+background: #f6f6f6;
+transition: box-shadow:0.25 ;
+
+}
+.search-input {
+font-size: 16px;
+font-family: 'Lexend', sans-serif;
+color: #333333;
+outline: none;
+background: transparent;
+border: none;
+margin-left: 14px;
+width: 300px;
+align-content: center;
+
+}
+.body{
+    height: 1000px; /* Adjust the value as needed */
+  }
